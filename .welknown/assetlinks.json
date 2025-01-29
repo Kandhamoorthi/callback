@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "io.ionic.starter",
+               "sha256_cert_fingerprints": ["23:67:9E:2A:E1:B5:4A:3F:04:91:F0:A6:66:BE:72:85:D3:95:2B:86:40:E8:57:69:37:88:0C:39:D0:42:5E:67"] }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "icom.vw.rtrdemo",
+               "sha256_cert_fingerprints": ["23:67:9E:2A:E1:B5:4A:3F:04:91:F0:A6:66:BE:72:85:D3:95:2B:86:40:E8:57:69:37:88:0C:39:D0:42:5E:67"] }
+}]
